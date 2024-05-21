@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/W4veByte/W4veByte/assets/137506800/850be0ec-2e75-4e1a-b2ae-adc885336fc2" alt="image" />
+  <img src="https://github.com/W4veByte/W4veByte/assets/137506800/850be0ec-2e75-4e1a-b2ae-adc885336fc2" alt="image" style="width: 550px;" />
 </div>
 
 ## 👋 Hi, I'm Riandre, also known as @W4veByte.
